@@ -5,6 +5,15 @@
       "date": "2025-02-13T23:40:08.111Z",
       "type": "initial",
       "description": "Initial landing page creation"
+    },
+    {
+      "version": 2,
+      "date": "2025-02-14T01:35:38.403Z",
+      "type": "update",
+      "description": "Updated landing page for AI-Powered Spreadsheet Cleaning",
+      "changes": [
+        "Content updated with latest information"
+      ]
     }
   ]
 }
